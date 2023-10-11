@@ -9,9 +9,9 @@
   >
     <div class="flex">
       <div>
-       Alexey Boldyrev, Oleg Melnikov &nbsp;|&nbsp;
-       Introduction to Statistical Learning &nbsp;|&nbsp;
-       Model Selection & Regularization &nbsp;|&nbsp;
+       <span v-html="$slidev.configs.author"></span> &nbsp;|&nbsp;
+       <span v-html="$slidev.configs.title"></span> &nbsp;|&nbsp;
+       <span v-html="$slidev.configs.subtitle"></span> &nbsp;|&nbsp;
        HSE 2023/2024
       </div>
       <div class="flex-grow">&nbsp;</div>
