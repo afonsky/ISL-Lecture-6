@@ -93,7 +93,7 @@ hideInToc: true
 # Stepwise Selection
 
 * A "**greedy**" search for best model, i.e. at every step we **optimize locally**, not globally
-	* Much faster than BBS for larger $p$. Non-exhaustive
+	* Much faster than BSS for larger $p$. Non-exhaustive
 
 <div class="bg-orange-100">
 
