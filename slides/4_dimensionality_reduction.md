@@ -73,7 +73,7 @@ $Z_1 :=
 <figure>
   <img src="/ISLP_figure_6.14.svg" style="width: 530px !important;">
   <figcaption style="color:#b3b3b3ff; font-size: 11px; position: relative; top: 10px; left: 400px;">Image source:
-    <a href="https://hastie.su.domains/ISLR2/ISLP_website.pdf#page=262">ISLP Fig. 6.14</a>
+    <a href="https://hastie.su.domains/ISLP/ISLP_website.pdf#page=262">ISLP Fig. 6.14</a>
   </figcaption>
 </figure>
 <br>
@@ -101,7 +101,7 @@ $Z_1 :=
 <figure>
   <img src="/ISLP_figure_12.3.svg" style="width: 430px !important;">
   <figcaption style="color:#b3b3b3ff; font-size: 11px; position: relative; top: 10px; left: 230px;">Image source:
-    <a href="https://hastie.su.domains/ISLR2/ISLP_website.pdf#page=518">ISLP Fig. 12.3</a>
+    <a href="https://hastie.su.domains/ISLP/ISLP_website.pdf#page=518">ISLP Fig. 12.3</a>
   </figcaption>
 </figure>
 </div>

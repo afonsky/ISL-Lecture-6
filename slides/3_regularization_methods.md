@@ -74,7 +74,7 @@ hideInToc: true
 <figure>
   <img src="/ISLP_figure_6.4.svg" style="width: 400px !important;">
   <figcaption style="color:#b3b3b3ff; font-size: 11px; position: relative; top: 10px; left: 230px;">Ridge. Image source:
-    <a href="https://hastie.su.domains/ISLR2/ISLP_website.pdf#page=249">ISLP Fig. 6.4</a>
+    <a href="https://hastie.su.domains/ISLP/ISLP_website.pdf#page=249">ISLP Fig. 6.4</a>
   </figcaption>
 </figure>
 </div>
@@ -91,7 +91,7 @@ hideInToc: true
 <figure>
   <img src="/ISLP_figure_6.6.svg" style="width: 400px !important;">
   <figcaption style="color:#b3b3b3ff; font-size: 11px; position: relative; top: 10px; left: 230px;">Lasso. Image source:
-    <a href="https://hastie.su.domains/ISLR2/ISLP_website.pdf#page=253">ISLP Fig. 6.6</a>
+    <a href="https://hastie.su.domains/ISLP/ISLP_website.pdf#page=253">ISLP Fig. 6.6</a>
   </figcaption>
 </figure>
 </div>
@@ -145,7 +145,7 @@ $\hat{\beta}_{0:p} = \argmin\limits_{\forall \beta} \{ \mathrm{RSS}_{\beta_0, \b
 <figure>
   <img src="/ridge_lasso_explained.png" style="width: 690px !important;">
   <figcaption style="color:#b3b3b3ff; font-size: 11px; position: relative; top: -50px; left: 650px;">Based on:
-    <a href="https://hastie.su.domains/ISLR2/ISLP_website.pdf#page=255">ISLP Fig. 6.7</a>
+    <a href="https://hastie.su.domains/ISLP/ISLP_website.pdf#page=255">ISLP Fig. 6.7</a>
   </figcaption>
 </figure>
 </div>
